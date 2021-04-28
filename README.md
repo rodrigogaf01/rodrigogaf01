@@ -32,6 +32,7 @@ My name is Rodrigo Gonçalez. I'm a brazilian production engineer.
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Previsão de ataque cardíaco](https://github.com/rodrigogaf01/Ataque-Cardiaco--Predicao-e-Analise)
 - [ Previsão do Preço dos Carros](https://github.com/rodrigogaf01/Previsao-Preco-dos-Carros)
 - [Departamento de Marketing - Clusterização](https://github.com/rodrigogaf01/Departamento-de-Marketing---Clusterizacao)
 - [Recursos Humanos - Análise e Classificação](https://github.com/rodrigogaf01/RH-Analise-e-Classificacao)
