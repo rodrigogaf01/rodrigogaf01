@@ -29,12 +29,27 @@ My name is Rodrigo Gonçalez. I'm a brazilian production engineer.
 ---
 
 
-### 📕 Latest Projects
+### 📕 CLassification Projects
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Prevenção de AVC](https://github.com/rodrigogaf01/Prevencao-AVC)
+- [CarShopee](https://github.com/rodrigogaf01/Carshopee-Previsao-de-Precos)
+- [Previsão de Churn na Telecomunicação](https://github.com/rodrigogaf01/Previsao-de-Churn-na-Telecomunicacao)
 - [Previsão de ataque cardíaco](https://github.com/rodrigogaf01/Ataque-Cardiaco--Predicao-e-Analise)
-- [ Previsão do Preço dos Carros](https://github.com/rodrigogaf01/Previsao-Preco-dos-Carros)
-- [Departamento de Marketing - Clusterização](https://github.com/rodrigogaf01/Departamento-de-Marketing---Clusterizacao)
 - [Recursos Humanos - Análise e Classificação](https://github.com/rodrigogaf01/RH-Analise-e-Classificacao)
+
+
+### 📕 Regression Projects
+
+- [Rossman Store](https://github.com/rodrigogaf01/RossmanStore-Previsao-de-Vendas)
+
+- [Análise de RH - Saída de funcionários](https://github.com/rodrigogaf01/Departamento-de-Marketing---Clusterizacao)
+- [Recursos Humanos - Análise e Classificação](https://github.com/rodrigogaf01/RH-Analise-e-Classificacao)
+
+
+### 📕 Clustering Projects
+
+- [Departamento de Marketing](https://github.com/rodrigogaf01/Departamento-de-Marketing---Clusterizacao)
 
 ---
